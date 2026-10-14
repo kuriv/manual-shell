@@ -1,10 +1,11 @@
 {
   "name": "manual-shell",
-  "version": "1.0.1",
-  "description": "Shell 手册",
+  "version": "1.0.2",
+  "description": "Shell 是一个用 C 语言编写的程序。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",

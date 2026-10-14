@@ -3,3 +3,7 @@
 Shell 是一个用 C 语言编写的程序，它既是一种命令语言，又是一种程序设计语言。
 
 Shell 同时提供了一个界面，用户可以通过这个界面访问操作系统内核的服务。
+
+<br><br>
+
+<p align="center"><img src="manual-shell.svg"></p>
